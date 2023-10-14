@@ -1,6 +1,6 @@
 <!--
 ### Hi there 👋
-**iamzhiyudong/iamzhiyudong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iizyd/iizyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![iamzhiyudong's GitHub stats](https://github-readme-stats.vercel.app/api?time=231008&username=iamzhiyudong&show_icons=true&hide=prs&include_all_commits=true&line_height=24&bg_color=20,D8603D,7E4989&text_color=ffffff&title_color=ffffff&icon_color=ffffff&cache_seconds=14400)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzhiyudong&layout=compact&bg_color=10,7E4989,D8603D&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide=Tcl,C,PHP)](https://github.com/anuraghazra/github-readme-stats)-->
+![iizyd's GitHub stats](https://github-readme-stats.vercel.app/api?time=231008&username=iizyd&show_icons=true&hide=prs&include_all_commits=true&line_height=24&bg_color=20,D8603D,7E4989&text_color=ffffff&title_color=ffffff&icon_color=ffffff&cache_seconds=14400)
 
